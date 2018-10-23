@@ -1,0 +1,23 @@
+[ED] Practica 1 10/AUG/18
+
+Haskell
+	{--}  Comenta varias lineas
+	-- Comentar una linea
+	:load Cargar
+	ghci Entra desde terminal
+	" Cadenas
+	++ Concatenar 
+	.hs extencion de haskell
+	
+	
+	
+	
+	Comando if
+	if 'condicional' 'primera opcion' 'else-segunda opcion'
+	Ejemplo if n<=8 print c print b
+	
+	Suma
+	suma a b depliega C
+	
+	
+	Las funciones van en minisculas

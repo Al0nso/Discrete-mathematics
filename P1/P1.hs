@@ -1,0 +1,1 @@
+mayor a b c = if a>c && a>b then a else if b>a && b>c then b else c 

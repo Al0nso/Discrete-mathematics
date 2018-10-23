@@ -1,0 +1,9 @@
+Practica 1
+
+1- mayor a b c = if a>c && a>b then a else if b>a && b>c then b else c 
+2 p12 a b = if (a ==True && b == False)  then  b else b
+3 p13 a b = if (a ==True)  then b+127.13 else ((b-32) *0.55555555555)
+4 p14 a = if a=="c:" then "Muy feliz" else if a==":/" then "Pasaste la materia con 7(Insatisfecho" else if a==":)" then "Tus amiguitas (Feliz)" else if a=="7w7r" then "Tengo casa sola(Persuasivo)" else if a=="(:" then "Es al reves (Feliz) "else "No hacepto ese emoji"
+Comentarios 4: Acepta "c:" , ":)" , "(:" , "7w7r" , ":/" 
+
+PD: En mi computadora funcionan bien todos, excepto por los acentos, por lo que le pido que si aguno falla me notifique y me permita demostrar que funciona 
